@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2c6e961-6141-4797-9294-5567c77913d4" name="Default Changelist" comment="" />
+    <list default="true" id="c2c6e961-6141-4797-9294-5567c77913d4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Model/CalculadoradeSalario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Model/Cargo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Model/CarrinhodeCompras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Model/ConvertNumberRomain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Model/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Model/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Model/MaiorPreco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CalculadoradeSalarioTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ConverterNumberRomanTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MaiorPrecoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Test_Suite.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Test_Suite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Test_Suite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Test_Suite.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -21,51 +39,63 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gradle" value="1" />
-          <entry key="java" value="3" />
+          <entry key="java" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="1" />
-          <entry key="JAVA" value="3" />
+          <entry key="JAVA" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="dummy" value="8" />
           <entry key="gradle" value="16" />
-          <entry key="java" value="737" />
+          <entry key="java" value="3579" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="16" />
-          <entry key="JAVA" value="737" />
+          <entry key="JAVA" value="3579" />
+          <entry key="PLAIN_TEXT" value="8" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Model/CarrinhodeCompras.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+            <state relative-caret-position="476">
+              <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#138#139#0" expanded="true" />
+                <element signature="e#182#183#0" expanded="true" />
+                <element signature="e#259#260#0" expanded="true" />
+                <element signature="e#285#286#0" expanded="true" />
+                <element signature="e#363#364#0" expanded="true" />
+                <element signature="e#395#396#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Test_Suite.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/MaiorPrecoTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
-              <caret line="38" column="58" lean-forward="true" selection-start-line="38" selection-start-column="58" selection-end-line="38" selection-end-column="58" />
+            <state relative-caret-position="476">
+              <caret line="28" column="59" selection-start-line="28" selection-start-column="59" selection-end-line="28" selection-end-column="59" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -73,29 +103,36 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Model/Calculadora.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Model/Item.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+            <state relative-caret-position="289">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
-                <element signature="e#238#239#0" expanded="true" />
-                <element signature="e#277#278#0" expanded="true" />
-                <element signature="e#322#323#0" expanded="true" />
-                <element signature="e#361#362#0" expanded="true" />
-                <element signature="e#406#407#0" expanded="true" />
-                <element signature="e#445#446#0" expanded="true" />
-                <element signature="e#492#493#0" expanded="true" />
-                <element signature="e#531#532#0" expanded="true" />
-                <element signature="e#223#224#0" expanded="true" />
-                <element signature="e#253#254#0" expanded="true" />
-                <element signature="e#296#297#0" expanded="true" />
-                <element signature="e#334#335#0" expanded="true" />
-                <element signature="e#161#162#0" expanded="true" />
-                <element signature="e#190#191#0" expanded="true" />
-                <element signature="e#231#232#0" expanded="true" />
-                <element signature="e#267#268#0" expanded="true" />
+                <element signature="e#338#339#0" expanded="true" />
+                <element signature="e#397#398#0" expanded="true" />
+                <element signature="e#336#337#0" expanded="true" />
+                <element signature="e#368#369#0" expanded="true" />
+                <element signature="e#418#419#0" expanded="true" />
+                <element signature="e#455#456#0" expanded="true" />
+                <element signature="e#484#485#0" expanded="true" />
+                <element signature="e#512#513#0" expanded="true" />
+                <element signature="e#551#552#0" expanded="true" />
+                <element signature="e#585#586#0" expanded="true" />
+                <element signature="e#625#626#0" expanded="true" />
+                <element signature="e#661#662#0" expanded="true" />
+                <element signature="e#719#720#0" expanded="true" />
+                <element signature="e#769#770#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Model/MaiorPreco.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -105,9 +142,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -287,9 +328,9 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="6197174455290" />
+        <entry key="$PROJECT_DIR$" value="6197174476580" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="378124589" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="2899399654" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="2007532874" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="3480403930" />
       </map>
@@ -408,8 +449,20 @@
       <list>
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/java/Controller/CalculadoraController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Test_Suite.java" />
         <option value="$PROJECT_DIR$/src/main/java/Model/Calculadora.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ConverterNumberRoman.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Model/ConvertNumberRomain.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ConverterNumberRomanTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Model/Cargo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Model/Funcionario.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CalculadoradeSalario.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CalculadoradeSalarioTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Model/CalculadoradeSalario.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Test_Suite.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Model/Item.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Model/MaiorPreco.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Model/CarrinhodeCompras.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MaiorPrecoTest.java" />
       </list>
     </option>
   </component>
@@ -425,11 +478,16 @@
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -463,18 +521,29 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Model" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JunitExample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JunitExample" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="JunitExample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JunitExample" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549295663795" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549319834149" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -490,7 +559,31 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Test_Suite">
+  <component name="RunManager" selected="JUnit.MaiorPrecoTest">
+    <configuration name="CalculadoradeSalarioTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitExample_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculadoradeSalarioTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConverterNumberRomanTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitExample_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ConverterNumberRomanTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaiorPrecoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitExample_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MaiorPrecoTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test_Suite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JunitExample_main" />
       <option name="PACKAGE_NAME" value="" />
@@ -509,26 +602,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test_Suite.shounldSubTwoNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JunitExample_main" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Test_Suite" />
-      <option name="METHOD_NAME" value="shounldSubTwoNumbers" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="JUnit.Test_Suite" />
-      <item itemvalue="JUnit.Test_Suite.shounldSubTwoNumbers" />
       <item itemvalue="JUnit.Test_Suite.shouldMultiTwoNumbers" />
+      <item itemvalue="JUnit.ConverterNumberRomanTest" />
+      <item itemvalue="JUnit.CalculadoradeSalarioTest" />
+      <item itemvalue="JUnit.MaiorPrecoTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MaiorPrecoTest" />
+        <item itemvalue="JUnit.CalculadoradeSalarioTest" />
         <item itemvalue="JUnit.Test_Suite" />
+        <item itemvalue="JUnit.ConverterNumberRomanTest" />
         <item itemvalue="JUnit.Test_Suite.shouldMultiTwoNumbers" />
-        <item itemvalue="JUnit.Test_Suite.shounldSubTwoNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -542,79 +629,80 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549293556072</updated>
-      <workItem from="1549293559769" duration="2087000" />
+      <workItem from="1549293559769" duration="2389000" />
+      <workItem from="1549312495581" duration="7134000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Test_Suite - 2019.02.04 at 13h 35m 17s.xml">
-      <configuration name="Test_Suite" configurationId="JUnit" />
+    <history-entry file="CalculadoradeSalarioTest - 2019.02.04 at 19h 29m 28s.xml">
+      <configuration name="CalculadoradeSalarioTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_Suite - 2019.02.04 at 13h 37m 32s.xml">
-      <configuration name="Test_Suite" configurationId="JUnit" />
+    <history-entry file="CalculadoradeSalarioTest - 2019.02.04 at 19h 29m 47s.xml">
+      <configuration name="CalculadoradeSalarioTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_Suite_shounldSubTwoNumbers - 2019.02.04 at 13h 38m 13s.xml">
-      <configuration name="Test_Suite.shounldSubTwoNumbers" configurationId="JUnit" />
+    <history-entry file="CalculadoradeSalarioTest - 2019.02.04 at 19h 31m 53s.xml">
+      <configuration name="CalculadoradeSalarioTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_Suite - 2019.02.04 at 13h 40m 48s.xml">
-      <configuration name="Test_Suite" configurationId="JUnit" />
+    <history-entry file="CalculadoradeSalarioTest - 2019.02.04 at 19h 32m 23s.xml">
+      <configuration name="CalculadoradeSalarioTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_Suite_shouldMultiTwoNumbers - 2019.02.04 at 13h 43m 08s.xml">
-      <configuration name="Test_Suite.shouldMultiTwoNumbers" configurationId="JUnit" />
+    <history-entry file="CalculadoradeSalarioTest - 2019.02.04 at 19h 35m 31s.xml">
+      <configuration name="CalculadoradeSalarioTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_Suite_shouldMultiTwoNumbers - 2019.02.04 at 13h 43m 31s.xml">
-      <configuration name="Test_Suite.shouldMultiTwoNumbers" configurationId="JUnit" />
+    <history-entry file="MaiorPrecoTest - 2019.02.04 at 20h 14m 23s.xml">
+      <configuration name="MaiorPrecoTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_Suite - 2019.02.04 at 13h 43m 39s.xml">
-      <configuration name="Test_Suite" configurationId="JUnit" />
+    <history-entry file="MaiorPrecoTest - 2019.02.04 at 20h 21m 48s.xml">
+      <configuration name="MaiorPrecoTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_Suite - 2019.02.04 at 13h 46m 33s.xml">
-      <configuration name="Test_Suite" configurationId="JUnit" />
+    <history-entry file="MaiorPrecoTest - 2019.02.04 at 20h 26m 00s.xml">
+      <configuration name="MaiorPrecoTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_Suite - 2019.02.04 at 13h 47m 10s.xml">
-      <configuration name="Test_Suite" configurationId="JUnit" />
+    <history-entry file="MaiorPrecoTest - 2019.02.04 at 20h 28m 55s.xml">
+      <configuration name="MaiorPrecoTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_Suite - 2019.02.04 at 13h 50m 34s.xml">
-      <configuration name="Test_Suite" configurationId="JUnit" />
+    <history-entry file="MaiorPrecoTest - 2019.02.04 at 20h 29m 54s.xml">
+      <configuration name="MaiorPrecoTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2087000" />
+    <option name="totallyTimeSpent" value="9523000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Build" weight="0.329718" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="right" id="Gradle" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -624,6 +712,27 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Controller/CalculadoraController.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ConverterNumberRomanTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="54" column="5" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="54" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Model/ConvertNumberRomain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -631,44 +740,123 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Controller/CalculadoraController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Model/Cargo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Test_Suite.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Model/Calculadora.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="38" column="58" lean-forward="true" selection-start-line="38" selection-start-column="58" selection-end-line="38" selection-end-column="58" />
+        <state relative-caret-position="425">
+          <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Model/CalculadoradeSalario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Model/Funcionario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <folding>
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#438#439#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#578#579#0" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
+            <element signature="e#647#648#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CalculadoradeSalarioTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Model/Calculadora.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test_Suite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        <state relative-caret-position="536">
+          <caret line="114" column="5" selection-start-line="114" selection-start-column="5" selection-end-line="114" selection-end-column="5" />
           <folding>
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-            <element signature="e#322#323#0" expanded="true" />
-            <element signature="e#361#362#0" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-            <element signature="e#445#446#0" expanded="true" />
-            <element signature="e#492#493#0" expanded="true" />
-            <element signature="e#531#532#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#253#254#0" expanded="true" />
-            <element signature="e#296#297#0" expanded="true" />
-            <element signature="e#334#335#0" expanded="true" />
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#231#232#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="method#shouldSumTwoNumber#0;class#Test_Suite#0" />
+            <element signature="method#shouldSubTwoNumbers#0;class#Test_Suite#0" />
+            <element signature="method#shouldDiv#0;class#Test_Suite#0" />
+            <element signature="method#shouldMultiTwoNumbers#0;class#Test_Suite#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Model/MaiorPreco.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Model/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+            <element signature="e#625#626#0" expanded="true" />
+            <element signature="e#661#662#0" expanded="true" />
+            <element signature="e#719#720#0" expanded="true" />
+            <element signature="e#769#770#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Model/CarrinhodeCompras.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MaiorPrecoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="59" selection-start-line="28" selection-start-column="59" selection-end-line="28" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
