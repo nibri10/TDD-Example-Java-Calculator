@@ -1,3 +1,7 @@
+import Controller.Calculadora;
+import Controller.CarrinhodeCompras;
+import Controller.ConvertNumberRomain;
+import Controller.Item;
 import Model.*;
 import org.junit.Test;
 
@@ -94,7 +98,7 @@ public class Test_Suite {
     public void shouldCalculateSalary() {
         CalculadoradeSalario calculadoradeSalario = new CalculadoradeSalario();
         Funcionario Desenvolvedor = new Funcionario("Mauricio", 1500.0, Cargo.DESENVOLVEDOR);
-        double salario = calculadoradeSalario.calcularSalario(Desenvolvedor);
+        double salario = calculadoradeSalario.calculaSalario(Desenvolvedor);
         assertEquals(1500.0 * 0.9, salario, 0.00001);
 
     }
@@ -102,7 +106,7 @@ public class Test_Suite {
     public void shouldCalculateHighLimit() {
         CalculadoradeSalario calculadoradeSalario = new CalculadoradeSalario();
         Funcionario Desenvolvedor = new Funcionario("Mauricio", 4000.0, Cargo.DESENVOLVEDOR);
-        double salario = calculadoradeSalario.calcularSalario(Desenvolvedor);
+        double salario = calculadoradeSalario.calculaSalario(Desenvolvedor);
         assertEquals(4000.0 * 0.8, salario, 0.00001);
     }
 
@@ -110,7 +114,7 @@ public class Test_Suite {
     public void shouldCalculateLowerLimit() {
         CalculadoradeSalario calculadoradeSalario = new CalculadoradeSalario();
         Funcionario Desenvolvedor = new Funcionario("Mauricio", 500.0, Cargo.DBA);
-        double salario = calculadoradeSalario.calcularSalario(Desenvolvedor);
+        double salario = calculadoradeSalario.calculaSalario(Desenvolvedor);
         assertEquals(500.0 * 0.85, salario, 0.00001);
     }
 

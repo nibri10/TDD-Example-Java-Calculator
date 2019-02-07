@@ -15,30 +15,30 @@ public class CalculadoradeSalarioTest {
     }
 
     @Test
-    public void shouldCalculateLowerLimitForDba() {
+    public void Deveria_Calcular_A_baixo_do_Limite_Para_DBA() {
         Funcionario Desenvolvedor = new Funcionario("Mauricio", 1500.0, Cargo.DBA);
-        double salario = calculadoradeSalario.calcularSalario(Desenvolvedor);
+        double salario = calculadoradeSalario.calculaSalario(Desenvolvedor);
         assertEquals(1500.0 * 0.85, salario, 0.00001);
     }
 
     @Test
-    public void shouldCalculateHighLimitForDba() {
+    public void Deveria_Calcular_Acima_do_Limite_Para_DBA() {
         Funcionario Desenvolvedor = new Funcionario("Mauricio", 4500.0, Cargo.DBA);
-        double salario = calculadoradeSalario.calcularSalario(Desenvolvedor);
+        double salario = calculadoradeSalario.calculaSalario(Desenvolvedor);
         assertEquals(4500.0 * 0.75, salario, 0.00001);
     }
 
     @Test
-    public void shouldCalculateLowerLimit() {
-        Funcionario Desenvolvedor = new Funcionario("Mauricio", 1500.0, Cargo.DESENVOLVEDOR);
-        double salario = calculadoradeSalario.calcularSalario(Desenvolvedor);
+    public void Deveria_Calcular_A_baixo_do_Limite() {
+        Funcionario Desenvolvedor = new Funcionario("Mauricio", 1500.0, Cargo.TESTADOR);
+        double salario = calculadoradeSalario.calculaSalario(Desenvolvedor);
         assertEquals(1500.0 * 0.9, salario, 0.00001);
     }
 
     @Test
-    public void shouldCalculateHighLimit() {
+    public void Deveria_Calcular_Acima_do_Limite() {
         Funcionario Desenvolvedor = new Funcionario("Mauricio", 4000.0, Cargo.DESENVOLVEDOR);
-        double salario = calculadoradeSalario.calcularSalario(Desenvolvedor);
+        double salario = calculadoradeSalario.calculaSalario(Desenvolvedor);
         assertEquals(4000.0 * 0.8, salario, 0.00001);
     }
 

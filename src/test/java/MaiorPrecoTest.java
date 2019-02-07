@@ -1,5 +1,5 @@
-import Model.CarrinhodeCompras;
-import Model.Item;
+import Controller.CarrinhodeCompras;
+import Controller.Item;
 import org.junit.Before;
 import org.junit.Test;
 

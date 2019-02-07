@@ -1,5 +1,4 @@
-import Model.CarrinhodeCompras;
-import Model.Item;
+import Controller.CarrinhodeCompras;
 
 public class CarrinhodeComprasBuilder {
     CarrinhodeCompras carrinhodeCompras;
