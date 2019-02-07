@@ -1,5 +1,6 @@
 package Model;
 
+
 public class CalculadoradeSalario {
 
     public double calculaSalario(Funcionario funcionario) {

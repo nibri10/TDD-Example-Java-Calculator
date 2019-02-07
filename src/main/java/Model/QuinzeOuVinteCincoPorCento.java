@@ -12,15 +12,10 @@ public class QuinzeOuVinteCincoPorCento extends RegradeCalculo {
         return 0.75;
     }
 
-    public  double calcula(Funcionario funcionario){
-        if(funcionario.getSalario() <2500){
-            return  funcionario.getSalario() * 0.85;
-        }
-        return  funcionario.getSalario() * 0.75;
-    }
+
 
     @Override
     protected int limite() {
-        return 0;
+        return 2500;
     }
 }

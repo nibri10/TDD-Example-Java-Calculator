@@ -7,13 +7,6 @@ public enum Cargo {
 
     private RegradeCalculo regra;
 
-
-    Cargo(DezOuVintePorCento dezOuVintePorCento) {
-    }
-
-    Cargo(QuinzeOuVinteCincoPorCento quinzeOuVinteCincoPorCento) {
-    }
-
    Cargo(RegradeCalculo regra){
         this.regra = regra;
     }
