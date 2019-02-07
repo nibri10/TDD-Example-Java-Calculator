@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2c6e961-6141-4797-9294-5567c77913d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/CarrinhodeComprasBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Model/CalculadoradeSalario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Model/CalculadoradeSalario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Model/MaiorPreco.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Test_Suite.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Test_Suite.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/MaiorPrecoTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Model/CalculadoradeSalario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Model/CalculadoradeSalario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Test_Suite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Test_Suite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/CalculadoradeSalarioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CalculadoradeSalarioTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/MaiorPrecoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MaiorPrecoTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -57,13 +45,13 @@
         <counts>
           <entry key="dummy" value="8" />
           <entry key="gradle" value="16" />
-          <entry key="java" value="5177" />
+          <entry key="java" value="5351" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="16" />
-          <entry key="JAVA" value="5177" />
+          <entry key="JAVA" value="5351" />
           <entry key="PLAIN_TEXT" value="8" />
         </counts>
       </usages-collector>
@@ -71,11 +59,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/CalculadoradeSalarioTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="27" column="54" lean-forward="true" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
+            <state relative-caret-position="126">
+              <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#326#327#0" expanded="true" />
@@ -85,11 +73,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Model/CalculadoradeSalario.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="60" lean-forward="true" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
+            <state relative-caret-position="459">
+              <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -502,7 +490,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549498312471" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549498997373" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -523,7 +511,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MaiorPrecoTest">
+  <component name="RunManager" selected="JUnit.CalculadoradeSalarioTest">
     <configuration name="CalculadoradeSalarioTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JunitExample_test" />
       <option name="PACKAGE_NAME" value="" />
@@ -575,9 +563,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CalculadoradeSalarioTest" />
         <item itemvalue="JUnit.MaiorPrecoTest" />
         <item itemvalue="JUnit.Test_Suite" />
-        <item itemvalue="JUnit.CalculadoradeSalarioTest" />
         <item itemvalue="JUnit.ConverterNumberRomanTest" />
         <item itemvalue="JUnit.Test_Suite.shouldMultiTwoNumbers" />
       </list>
@@ -595,7 +583,7 @@
       <updated>1549293556072</updated>
       <workItem from="1549293559769" duration="2389000" />
       <workItem from="1549312495581" duration="9562000" />
-      <workItem from="1549492973004" duration="5224000" />
+      <workItem from="1549492973004" duration="5965000" />
     </task>
     <servers />
   </component>
@@ -632,7 +620,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17175000" />
+    <option name="totallyTimeSpent" value="17916000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -647,7 +635,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10660981" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10660981" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -656,7 +644,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -813,22 +801,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Model/CalculadoradeSalario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/CalculadoradeSalarioTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="27" column="54" lean-forward="true" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
+        <state relative-caret-position="126">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#326#327#0" expanded="true" />
             <element signature="e#395#396#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Model/CalculadoradeSalario.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="60" lean-forward="true" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
         </state>
       </provider>
     </entry>
